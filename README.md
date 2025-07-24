@@ -1,11 +1,12 @@
 # **CODING INTERVIEW PREPARATION**
-> [!NOTE]  
+![alt text](images/lockin.jpg)
+> [!IMPORTANT]  
 > Solve minimum one LeetCode question daily !!
 
+
+---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/paudelsamir?theme=light&font=Blinker&ext=activity)
-
-
-### *SOLVED QUESTIONS*
+**🟢🟠🔴 SOLVED QUESTIONS**
 
 | # | Title | Difficulty | Status | Solution |
 |---| ----- | ---------- | ------ | -------- |
