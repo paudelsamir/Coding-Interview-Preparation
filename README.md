@@ -9,5 +9,6 @@
 
 | Q/N | Title | Difficulty | Status | Solution |
 |----| ----- | ---------- | ------ | -------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | [Python](solutions/two-sum.py) |
-| 2 | [Concatenation of Array](https://leetcode.com/problems/two-sum/) | Easy | ✅ | [Python](solutions/two-sum.py) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | [Python](images/001_two_sum.png) |
+| 2 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | ✅ | [Python](images/003_concatenation_of_array.png) |
+| 3 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | ✅ | [Python](images/002_reverse_string.png) |
