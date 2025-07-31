@@ -13,3 +13,4 @@
 | 2 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | ✅ | [Python](images/003_concatenation_of_array.png) |
 | 3 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | ✅ | [Python](images/002_reverse_string.png) |
 | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ✅ | [C++](images/004_contains_duplicate.png) |
+| 5 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | ♻️ |  |
