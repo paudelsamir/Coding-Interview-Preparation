@@ -8,10 +8,9 @@
 
 
 ## Solved Problems
-
 <style>
 .problem-img {
-    height: 40px;
+    height: 28px;
     vertical-align: middle;
 }
 </style>
