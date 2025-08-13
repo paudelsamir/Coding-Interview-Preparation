@@ -19,9 +19,3 @@
 | ✅     | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy      | <img src="images/006_best_time_to_buy_sell_stock.png" alt="Python Solution" height="40"/> | Dynamic Programming (Python) |
 
 ---
-**Suggestions:**
-- Group problems by topic for better organization.
-- Add links to your solution code if available.
-- Include a "Next Up" section for planned problems.
-- Use consistent naming for columns and tags.
-
