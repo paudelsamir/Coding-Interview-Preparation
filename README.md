@@ -1,6 +1,8 @@
 # **CODING INTERVIEW PREPARATION**
 > [!NOTE]
-![LeetCode Stats](https://leetcard.jacoblin.cool/paudelsamir?theme=light&font=Blinker&ext=activity)
+> <a href="https://leetcode.com/u/paudelsamir/" target="_blank">
+> <img src="https://leetcard.jacoblin.cool/paudelsamir?theme=light&font=Blinker&ext=activity" alt="LeetCode Stats"/>
+> </a>
 
 <!-- 🟢🟠🔴 ♻️	🔜	⏭️	❌🔄 -->
 
