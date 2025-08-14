@@ -16,5 +16,7 @@
 | ✅     | [4. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <img src="images/004_contains_duplicate.png" alt="C++ Solution" height="40"/> | Hash Table (C++) |
 | ✅     | [5. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <img src="images/005_valid_palindrome.png" alt="Python Solution" height="40"/> | Two Pointers (Python) |
 | ✅     | [6. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <img src="images/006_best_time_to_buy_sell_stock.png" alt="Python Solution" height="40"/> | Dynamic Programming (Python) |
+| ✅     | [7. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <img src="images/007_valid_paranthesis.png" alt="Python Solution" height="40"/> | Stack (Python) |
+| ✅     | [8. Binary Search](https://leetcode.com/problems/binary-search/) | <img src="images/008_binary_search.png" alt="Python Solution" height="40"/> | Binary Search (Python) |
 
 ---
