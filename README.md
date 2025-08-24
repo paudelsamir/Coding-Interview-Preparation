@@ -18,5 +18,5 @@
 | ✅     | Easy   | [7. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <img src="images/007_valid_paranthesis.png" alt="Python Solution" height="40"/> | Stack (Python) |
 | ✅     | Easy   | [8. Binary Search](https://leetcode.com/problems/binary-search/) | <img src="images/008_binary_search.png" alt="Python Solution" height="40"/> | Binary Search (Python) |
 | ✅     | Easy   | [9. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <img src="images/009_reverse_linked_list.png" alt="Python Solution" height="40"/> | Linked List (Python) |
-
+| ✅     | Easy   | [10. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <img src="images/010_invert_binary_tree.png" alt="Python Solution" height="40"/> | Binary Tree (Python) |
 ---
