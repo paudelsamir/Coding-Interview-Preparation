@@ -19,4 +19,5 @@
 | ✅     | Easy   | [8. Binary Search](https://leetcode.com/problems/binary-search/) | <img src="images/008_binary_search.png" alt="Python Solution" height="40"/> | Binary Search (Python) |
 | ✅     | Easy   | [9. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <img src="images/009_reverse_linked_list.png" alt="Python Solution" height="40"/> | Linked List (Python) |
 | ✅     | Easy   | [10. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <img src="images/010_invert_binary_tree.png" alt="Python Solution" height="40"/> | Binary Tree (Python) |
+| ✅     | Medium | [11. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <img src="images/011_topk_frequent_elements.png" alt="Python Solution" height="40"/> | Heap/Hash Table (Python) |
 ---
