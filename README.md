@@ -20,4 +20,5 @@
 | ✅     | Easy   | [9. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <img src="images/009_reverse_linked_list.png" alt="Python Solution" height="40"/> | Linked List (Python) |
 | ✅     | Easy   | [10. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <img src="images/010_invert_binary_tree.png" alt="Python Solution" height="40"/> | Binary Tree (Python) |
 | ✅     | Medium | [11. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <img src="images/011_topk_frequent_elements.png" alt="Python Solution" height="40"/> | Heap/Hash Table (Python) |
+| ✅     | Medium | [12. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <img src="images/012_twosumii.png" alt="Python Solution" height="40"/> | Binary Search (Python) |
 ---
