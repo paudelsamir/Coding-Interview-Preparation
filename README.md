@@ -22,4 +22,6 @@
 | ✅     | Medium | [11. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <img src="images/011_topk_frequent_elements.png" alt="Python Solution" height="40"/> | Heap/Hash Table (Python) |
 | ✅     | Medium | [12. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <img src="images/012_twosumii.png" alt="Python Solution" height="40"/> | Binary Search (Python) |
 | ✅     | Medium | [13. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | <img src="images/013_longest_subsequence_wo_repeating_chars.png" alt="Python Solution" height="40"/> | Sliding Window (Python) |
+| ✅     | Medium | [14. Min Stack](https://leetcode.com/problems/min-stack/) | <img src="images/014_min_stack.png" alt="Solution" height="40"/> | Stack (Python) |
+| ✅     | Medium | [15. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | <img src="images/015_evaluate_reverse_polish_notation.png" alt="Solution" height="40"/> | Stack (Python) |
 ---
