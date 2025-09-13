@@ -24,4 +24,5 @@
 | ✅     | Medium | [13. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | <img src="images/013_longest_subsequence_wo_repeating_chars.png" alt="Python Solution" height="40"/> | Sliding Window (Python) |
 | ✅     | Medium | [14. Min Stack](https://leetcode.com/problems/min-stack/) | <img src="images/014_min_stack.png" alt="Solution" height="40"/> | Stack (Python) |
 | ✅     | Medium | [15. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | <img src="images/015_evaluate_reverse_polish_notation.png" alt="Solution" height="40"/> | Stack (Python) |
+| ✅     | Medium | [16. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <img src="images/016_search_a_2d_matrix.png" alt="Solution" height="40"/> | Binary Search (Python) |
 ---
