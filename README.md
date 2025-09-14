@@ -25,4 +25,5 @@
 | ✅     | Medium | [14. Min Stack](https://leetcode.com/problems/min-stack/) | <img src="images/014_min_stack.png" alt="Solution" height="40"/> | Stack (Python) |
 | ✅     | Medium | [15. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | <img src="images/015_evaluate_reverse_polish_notation.png" alt="Solution" height="40"/> | Stack (Python) |
 | ✅     | Medium | [16. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <img src="images/016_search_a_2d_matrix.png" alt="Solution" height="40"/> | Binary Search (Python) |
+| ✅     | Medium | [17. Reorder List](https://leetcode.com/problems/reorder-list/) | <img src="images/017_reorder_list.png" alt="Solution" height="40"/> | Linked List (Python) |
 ---
