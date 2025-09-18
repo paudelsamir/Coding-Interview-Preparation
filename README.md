@@ -28,4 +28,5 @@
 | ✅     | Medium | [17. Reorder List](https://leetcode.com/problems/reorder-list/) | <img src="images/017_reorder_list.png" alt="Solution" height="40"/> | Linked List (Python) |
 | ✅     | Medium | [18. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | <img src="images/018_lowest_common_ancestor_of_a_bst.png" alt="Solution" height="40"/> | Binary Search Tree (Python) |
 | ✅     | Medium | [19. Subsets](https://leetcode.com/problems/subsets/) | <img src="images/019_subset.png" alt="Solution" height="40"/> | Backtracking (Python) |
+| ✅     | Medium | [20. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | <img src="images/020_k_closest_point_to_origin.png" alt="Solution" height="40"/> | Heap/Sorting (Python) |
 ---
