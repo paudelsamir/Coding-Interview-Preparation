@@ -30,4 +30,5 @@
 | ✅     | Medium | [19. Subsets](https://leetcode.com/problems/subsets/) | <img src="images/019_subset.png" alt="Solution" height="40"/> | Backtracking (Python) |
 | ✅     | Medium | [20. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | <img src="images/020_k_closest_point_to_origin.png" alt="Solution" height="40"/> | Heap/Sorting (Python) |
 | ✅     | Medium | [21. Number of Islands](https://leetcode.com/problems/number-of-islands/) | <img src="images/021_no_of_islands.png" alt="Solution" height="40"/> | DFS (Python) |
+| ✅     | Medium | [22. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | <img src="images/022_sum_of_two_integers.png" alt="Solution" height="40"/> | Bit Manipulation (Python) |
 ---
