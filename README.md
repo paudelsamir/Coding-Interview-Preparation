@@ -33,4 +33,5 @@
 | ✅     | Medium | [22. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | <img src="images/022_sum_of_two_integers.png" alt="Solution" height="40"/> | Bit Manipulation (Python) |
 | ✅     | Medium   | [23. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <img src="images/023_maximum_subarray.png" alt="Solution" height="40"/> | Kadane's Algorithm (Python) |
 | ✅     | Medium   | [24. Insert Interval](https://leetcode.com/problems/insert-interval/) | <img src="images/024_insert_interval.png" alt="Solution" height="40"/> | Greedy (Python) |
+| ✅     | Medium   | [25. Rotate Image](https://leetcode.com/problems/rotate-image/) | <img src="images/025_rotate_image.png" alt="Solution" height="40"/> | Matrix Manipulation (Python) |
 ---
