@@ -34,4 +34,6 @@
 | ✅     | Medium   | [23. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <img src="images/023_maximum_subarray.png" alt="Solution" height="40"/> | Kadane's Algorithm (Python) |
 | ✅     | Medium   | [24. Insert Interval](https://leetcode.com/problems/insert-interval/) | <img src="images/024_insert_interval.png" alt="Solution" height="40"/> | Greedy (Python) |
 | ✅     | Medium   | [25. Rotate Image](https://leetcode.com/problems/rotate-image/) | <img src="images/025_rotate_image.png" alt="Solution" height="40"/> | Matrix Manipulation (Python) |
+| ✅     | Easy   | [26. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <img src="images/026_climbing_stairs.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+| ✅     | Medium   | [27. Unique Paths](https://leetcode.com/problems/unique-paths/) | <img src="images/027_unique_path.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 ---
