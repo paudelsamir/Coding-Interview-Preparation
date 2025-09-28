@@ -36,4 +36,6 @@
 | ✅     | Medium   | [25. Rotate Image](https://leetcode.com/problems/rotate-image/) | <img src="images/025_rotate_image.png" alt="Solution" height="40"/> | Matrix Manipulation (Python) |
 | ✅     | Easy   | [26. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <img src="images/026_climbing_stairs.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Medium   | [27. Unique Paths](https://leetcode.com/problems/unique-paths/) | <img src="images/027_unique_path.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+| ✅     | Easy   | [28. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | <img src="images/028_min_cost_climbing_stairs.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+| ✅     | Medium | [29. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | <img src="images/029_longest_common_subsequence.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 ---
