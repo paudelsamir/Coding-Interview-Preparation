@@ -38,4 +38,7 @@
 | ✅     | Medium   | [27. Unique Paths](https://leetcode.com/problems/unique-paths/) | <img src="images/027_unique_path.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Easy   | [28. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | <img src="images/028_min_cost_climbing_stairs.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Medium | [29. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | <img src="images/029_longest_common_subsequence.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+| ✅     | Medium | [30. House Robber](https://leetcode.com/problems/house-robber/) | <img src="images/030_house_robber.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+| ✅     | Medium | [31. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | <img src="images/031_buy_and_sell_stock_with_cooldown.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+
 ---
