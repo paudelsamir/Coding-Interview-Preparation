@@ -41,5 +41,6 @@
 | ✅     | Medium | [30. House Robber](https://leetcode.com/problems/house-robber/) | <img src="images/030_house_robber.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Medium | [31. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | <img src="images/031_buy_and_sell_stock_with_cooldown.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Medium | [32. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | <img src="images/032_max_area_of_island.png" alt="Solution" height="40"/> | DFS (Python) |
-
+| ✅     | Easy   | [33. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | <img src="images/033_last_stone_weight.png" alt="Solution" height="40"/> | Heap (Python) |
+| ✅     | Medium | [34. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | <img src="images/034_kth_largest_element_in_an_array.png" alt="Solution" height="40"/> | Heap/Quickselect (Python) |
 ---
