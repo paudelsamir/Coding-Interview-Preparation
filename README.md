@@ -43,4 +43,6 @@
 | ✅     | Medium | [32. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | <img src="images/032_max_area_of_island.png" alt="Solution" height="40"/> | DFS (Python) |
 | ✅     | Easy   | [33. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | <img src="images/033_last_stone_weight.png" alt="Solution" height="40"/> | Heap (Python) |
 | ✅     | Medium | [34. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | <img src="images/034_kth_largest_element_in_an_array.png" alt="Solution" height="40"/> | Heap/Quickselect (Python) |
+| ✅     | Medium | [35. Combination Sum](https://leetcode.com/problems/combination-sum/) | <img src="images/035_combination_sum.png" alt="Solution" height="40"/> | Backtracking (Python) |
+| ✅     | Medium | [36. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | <img src="images/036_combination_sum_ii.png" alt="Solution" height="40"/> | Backtracking (Python) |
 ---
