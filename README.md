@@ -45,4 +45,7 @@
 | ✅     | Medium | [34. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | <img src="images/034_kth_largest_element_in_an_array.png" alt="Solution" height="40"/> | Heap/Quickselect (Python) |
 | ✅     | Medium | [35. Combination Sum](https://leetcode.com/problems/combination-sum/) | <img src="images/035_combination_sum.png" alt="Solution" height="40"/> | Backtracking (Python) |
 | ✅     | Medium | [36. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | <img src="images/036_combination_sum_ii.png" alt="Solution" height="40"/> | Backtracking (Python) |
+| ✅     | Medium | [37. Jump Game](https://leetcode.com/problems/jump-game/) | <img src="images/037_jump_game_1.png" alt="Solution" height="40"/> | Greedy (Python) |
+| ✅     | Hard   | [38. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | <img src="images/038_jump_game_2.png" alt="Solution" height="40"/> | Greedy (Python) |
+| ✅     | Medium | [39. 3Sum](https://leetcode.com/problems/3sum/) | <img src="images/039_3Sum.png" alt="Solution" height="40"/> | Two Pointers (Python) |
 ---
