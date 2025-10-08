@@ -48,4 +48,7 @@
 | ✅     | Medium | [37. Jump Game](https://leetcode.com/problems/jump-game/) | <img src="images/037_jump_game_1.png" alt="Solution" height="40"/> | Greedy (Python) |
 | ✅     | Hard   | [38. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | <img src="images/038_jump_game_2.png" alt="Solution" height="40"/> | Greedy (Python) |
 | ✅     | Medium | [39. 3Sum](https://leetcode.com/problems/3sum/) | <img src="images/039_3Sum.png" alt="Solution" height="40"/> | Two Pointers (Python) |
+| ✅     | Medium | [40. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | <img src="images/040_koko_eating_bananas.png" alt="Solution" height="40"/> | Binary Search (Python) |
+| ✅     | Easy   | [41. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <img src="images/041_merge_two_sorted_list.png" alt="Solution" height="40"/> | Linked List (Python) |
+| ✅     | Easy   | [42. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | <img src="images/042_linked_list_cycle.png" alt="Solution" height="40"/> | Linked List (Python) |
 ---
