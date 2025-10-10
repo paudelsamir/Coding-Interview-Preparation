@@ -54,4 +54,6 @@
 | ✅     | Medium | [43. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | <img src="images/043_binary_tree_level_order_traversal.png" alt="Solution" height="40"/> | Binary Tree (Python) |
 | ✅     | Medium | [44. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | <img src="images/044_binary_tree_right_side_view.png" alt="Solution" height="40"/> | Binary Tree (Python) |
 | ✅     | Easy   | [45. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <img src="images/045_maximum_depth_of_binary_tree.png" alt="Solution" height="40"/> | Binary Tree (Python) |
+| ✅     | Medium | [46. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <img src="images/046_valid_sudoku.png" alt="Solution" height="40"/> | Hash Table (Python) |
+| ✅     | Medium | [47. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <img src="images/047_longest_repeating_character_replacement.png" alt="Solution" height="40"/> | Sliding Window (Python) |
 ---
