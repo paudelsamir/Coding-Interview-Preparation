@@ -56,4 +56,6 @@
 | ✅     | Easy   | [45. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <img src="images/045_maximum_depth_of_binary_tree.png" alt="Solution" height="40"/> | Binary Tree (Python) |
 | ✅     | Medium | [46. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <img src="images/046_valid_sudoku.png" alt="Solution" height="40"/> | Hash Table (Python) |
 | ✅     | Medium | [47. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <img src="images/047_longest_repeating_character_replacement.png" alt="Solution" height="40"/> | Sliding Window (Python) |
+| ✅     | Medium | [48. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <img src="images/048_daily_temperature.png" alt="Solution" height="40"/> | Stack (Python) |
+| ✅     | Medium | [49. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <img src="images/049_generate_parenthesis.png" alt="Solution" height="40"/> | Backtracking (Python) |
 ---
