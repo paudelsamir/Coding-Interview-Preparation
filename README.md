@@ -58,4 +58,6 @@
 | ✅     | Medium | [47. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <img src="images/047_longest_repeating_character_replacement.png" alt="Solution" height="40"/> | Sliding Window (Python) |
 | ✅     | Medium | [48. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <img src="images/048_daily_temperature.png" alt="Solution" height="40"/> | Stack (Python) |
 | ✅     | Medium | [49. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <img src="images/049_generate_parenthesis.png" alt="Solution" height="40"/> | Backtracking (Python) |
+| ✅     | Medium | [50. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | <img src="images/050_remove_nth_node_from_end_of_the_list.png" alt="Solution" height="40"/> | Linked List (Python) |
+| ✅     | Medium | [51. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <img src="images/051_copy_list_with_random_pointer.png" alt="Solution" height="40"/> | Linked List (Python) |
 ---
