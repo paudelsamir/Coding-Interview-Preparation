@@ -62,4 +62,6 @@
 | ✅     | Medium | [51. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <img src="images/051_copy_list_with_random_pointer.png" alt="Solution" height="40"/> | Linked List (Python) |
 | ✅     | Medium | [52. Permutations](https://leetcode.com/problems/permutations/) | <img src="images/052_permutation.png" alt="Solution" height="40"/> | Backtracking (Python) |
 | ✅     | Medium | [53. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | <img src="images/053_count_good_nodes_in_binary_tree.png" alt="Solution" height="40"/> | Binary Tree (Python) |
+| ✅     | Medium | [54. Clone Graph](https://leetcode.com/problems/clone-graph/) | <img src="images/054_clone_graph.png" alt="Solution" height="40"/> | Graph (Python) |
+| ✅     | Medium | [55. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | <img src="images/055_rotting_oranges.png" alt="Solution" height="40"/> | BFS (Python) |
 ---
