@@ -66,4 +66,5 @@
 | ✅     | Medium | [55. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | <img src="images/055_rotting_oranges.png" alt="Solution" height="40"/> | BFS (Python) |
 | ✅     | Medium | [56. House Robber II](https://leetcode.com/problems/house-robber-ii/) | <img src="images/056_house_robber_ii.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Medium | [57. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | <img src="images/057_longest_palindrome_substring.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+| ✅     | Medium | [59. Course Schedule](https://leetcode.com/problems/course-schedule/) | <img src="images/059_course_schedule.png" alt="Solution" height="40"/> | Graph (Python) |
 ---
