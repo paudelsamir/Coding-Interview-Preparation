@@ -69,4 +69,6 @@
 | ✅     | Medium | [58. Course Schedule](https://leetcode.com/problems/course-schedule/) | <img src="images/058_course_schedule.png" alt="Solution" height="40"/> | Graph (Python) |
 | ✅     | Medium | [59. Gas Station](https://leetcode.com/problems/gas-station/) | <img src="images/059_gas_station.png" alt="Solution" height="40"/> | Greedy (Python) |
 | ✅     | Medium | [60. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | <img src="images/060_hands_of_straight.png" alt="Solution" height="40"/> | Greedy/minHeap (Python) |
+| ✅     | Medium | [61. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <img src="images/061_find_minimum_in_rotated_sorted_array.png" alt="Solution" height="40"/> | Binary Search (Python) |
+| ✅     | Medium | [62. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | <img src="images/062_add_two_numbers.png" alt="Solution" height="40"/> | Linked List (Python) |
 ---
