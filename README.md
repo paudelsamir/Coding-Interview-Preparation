@@ -71,4 +71,6 @@
 | ✅     | Medium | [60. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | <img src="images/060_hands_of_straight.png" alt="Solution" height="40"/> | Greedy/minHeap (Python) |
 | ✅     | Medium | [61. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <img src="images/061_find_minimum_in_rotated_sorted_array.png" alt="Solution" height="40"/> | Binary Search (Python) |
 | ✅     | Medium | [62. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | <img src="images/062_add_two_numbers.png" alt="Solution" height="40"/> | Linked List (Python) |
+| ✅     | Medium | [63. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | <img src="images/063_palindrome_substring.png" alt="Solution" height="40"/> | Expand Around Center (Python) |
+| ✅     | Medium | [64. Decode Ways](https://leetcode.com/problems/decode-ways/) | <img src="images/064_decode_ways.png" alt="Solution" height="40"/> | Recursion (Python) |
 ---
