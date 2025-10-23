@@ -74,4 +74,5 @@
 | ✅     | Medium | [63. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | <img src="images/063_palindrome_substring.png" alt="Solution" height="40"/> | Expand Around Center (Python) |
 | ✅     | Medium | [64. Decode Ways](https://leetcode.com/problems/decode-ways/) | <img src="images/064_decode_ways.png" alt="Solution" height="40"/> | Recursion (Python) |
 | ✅     | Medium | [65. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | <img src="images/064_non_overlapping_intervals.png" alt="Solution" height="40"/> | Greedy/Sorting (Python) |
+| ✅     | Medium | [66. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | <img src="images/065_spiral_matrix.png" alt="Solution" height="40"/> | Matrix Traversal (Python) |
 ---
