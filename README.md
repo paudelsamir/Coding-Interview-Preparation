@@ -76,4 +76,5 @@
 | ✅     | Medium | [65. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | <img src="images/065_non_overlapping_intervals.png" alt="Solution" height="40"/> | Greedy/Sorting (Python) |
 | ✅     | Medium | [66. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | <img src="images/066_spiral_matrix.png" alt="Solution" height="40"/> | Matrix Traversal (Python) |
 | ✅     | Medium | [67. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | <img src="images/067_longest_consecutive_sequence.png" alt="Solution" height="40"/> | Hash Set (Python) |
+| ✅     | Medium | [68. LRU Cache](https://leetcode.com/problems/lru-cache/) | <img src="images/068_lru_cache.png" alt="Solution" height="40"/> | Hash Map/Doubly Linked List (Python) |
 ---
