@@ -77,4 +77,6 @@
 | ✅     | Medium | [66. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | <img src="images/066_spiral_matrix.png" alt="Solution" height="40"/> | Matrix Traversal (Python) |
 | ✅     | Medium | [67. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | <img src="images/067_longest_consecutive_sequence.png" alt="Solution" height="40"/> | Hash Set (Python) |
 | ✅     | Medium | [68. LRU Cache](https://leetcode.com/problems/lru-cache/) | <img src="images/068_lru_cache.png" alt="Solution" height="40"/> | Hash Map/Doubly Linked List (Python) |
+| ✅     | Medium | [69. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | <img src="images/069_validate_binary_search_tree.png" alt="Solution" height="40"/> | Binary Search Tree (Python) |
+
 ---
