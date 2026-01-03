@@ -81,5 +81,9 @@
 | ✅     | Medium | [70. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | <img src="images/070_find_the_duplicate_number.png" alt="Solution" height="40"/> | Floyd's Cycle Detection (Python) |
 | ✅     | Medium | [71. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | <img src="images/071_search_in_rotated_sorted_array.png" alt="Solution" height="40"/> | Binary Search (Python) |
 | ✅     | Medium | [72. Word Search](https://leetcode.com/problems/word-search/) | <img src="images/072_word_search.png" alt="Solution" height="40"/> | Backtracking (Python) |
+| ✅     | Medium | [73. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | <img src="images/073_container_with_most_water.png" alt="Solution" height="40"/> | Two Pointers (Python) |
+| ✅     | Hard   | [74. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <img src="images/074_trapping_rain_water.png" alt="Solution" height="40"/> | Two Pointers (Python) |
+| ✅     | Medium | [75. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <img src="images/075_permutation_in_string.png" alt="Solution" height="40"/> | Sliding Window (Python) |
+
 
 ---
