@@ -84,6 +84,5 @@
 | ✅     | Medium | [73. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | <img src="images/073_container_with_most_water.png" alt="Solution" height="40"/> | Two Pointers (Python) |
 | ✅     | Hard   | [74. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <img src="images/074_trapping_rain_water.png" alt="Solution" height="40"/> | Two Pointers (Python) |
 | ✅     | Medium | [75. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <img src="images/075_permutation_in_string.png" alt="Solution" height="40"/> | Sliding Window (Python) |
-
-
+| ✅     | Hard   | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <img src="images/076_minimum_window_substring.png" alt="Solution" height="40"/> | Sliding Window (Python) |
 ---
