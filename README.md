@@ -85,4 +85,10 @@
 | ✅     | Hard   | [74. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <img src="images/074_trapping_rain_water.png" alt="Solution" height="40"/> | Two Pointers (Python) |
 | ✅     | Medium | [75. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <img src="images/075_permutation_in_string.png" alt="Solution" height="40"/> | Sliding Window (Python) |
 | ✅     | Hard   | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <img src="images/076_minimum_window_substring.png" alt="Solution" height="40"/> | Sliding Window (Python) |
+| ✅     | Hard   | [77. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | <img src="images/077_sliding_window_maximum.png" alt="Solution" height="40"/> | Deque (Python) |
+| ✅     | Medium | [78. Car Fleet](https://leetcode.com/problems/car-fleet/) | <img src="images/078_car_fleet.png" alt="Solution" height="40"/> | Stack (Python) |
+| ✅     | Medium | [79. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | <img src="images/079_implement_trie.png" alt="Solution" height="40"/> | Trie (Python) |
+| ✅     | Medium | [80. Coin Change](https://leetcode.com/problems/coin-change/) | <img src="images/080_coin_change.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+
 ---
+l 
