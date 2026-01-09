@@ -89,6 +89,8 @@
 | ✅     | Medium | [78. Car Fleet](https://leetcode.com/problems/car-fleet/) | <img src="images/078_car_fleet.png" alt="Solution" height="40"/> | Stack (Python) |
 | ✅     | Medium | [79. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | <img src="images/079_implement_trie.png" alt="Solution" height="40"/> | Trie (Python) |
 | ✅     | Medium | [80. Coin Change](https://leetcode.com/problems/coin-change/) | <img src="images/080_coin_change.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+| ✅     | Medium | [81. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | <img src="images/081_kth_smallest_number_in_bst.png" alt="Solution" height="40"/> | Binary Search Tree (Python) |
+
 
 ---
 l 
