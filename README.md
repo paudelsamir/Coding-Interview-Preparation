@@ -91,6 +91,7 @@
 | ✅     | Medium | [80. Coin Change](https://leetcode.com/problems/coin-change/) | <img src="images/080_coin_change.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Medium | [81. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | <img src="images/081_kth_smallest_number_in_bst.png" alt="Solution" height="40"/> | Binary Search Tree (Python) |
 | ✅     | Medium | [82. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | <img src="images/082_construct_binary_tree_From_preorder_and_inorder.png" alt="Solution" height="40"/> | Binary Tree (Python) |
+| ✅     | Medium | [83. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | <img src="images/083_task_scheduler.png" alt="Solution" height="40"/> | Counter (Python) |
+
 
 ---
-l 
