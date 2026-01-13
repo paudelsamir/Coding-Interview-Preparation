@@ -93,7 +93,6 @@
 | ✅     | Medium | [82. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | <img src="images/082_construct_binary_tree_From_preorder_and_inorder.png" alt="Solution" height="40"/> | Binary Tree (Python) |
 | ✅     | Medium | [83. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | <img src="images/083_task_scheduler.png" alt="Solution" height="40"/> | Counter (Python) |
 | ✅     | Medium | [84. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | <img src="images/084_maximum_product_subarray.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
-
-
+| ✅     | Hard   | [85. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | <img src="images/085_regular_expression_matching.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 
 ---
