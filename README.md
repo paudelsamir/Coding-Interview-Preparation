@@ -95,5 +95,6 @@
 | ✅     | Medium | [84. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | <img src="images/084_maximum_product_subarray.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Hard   | [85. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | <img src="images/085_regular_expression_matching.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Hard   | [86. N-Queens](https://leetcode.com/problems/n-queens/) | <img src="images/086_nqueens.png" alt="Solution" height="40"/> | Backtracking (Python) |
-
+| ✅     | Medium   | [87. Interleaving String](https://leetcode.com/problems/interleaving-string/) | <img src="images/087_interleaving_string.png" alt="Solution" height="40"/> | Recursion (Python) |
+| ✅     | Easy   | [88. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | <img src="images/088_number_of_1_bits.png" alt="Solution" height="40"/> | Bit Manipulation (Python) |
 ---
