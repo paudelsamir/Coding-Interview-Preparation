@@ -97,4 +97,6 @@
 | ✅     | Hard   | [86. N-Queens](https://leetcode.com/problems/n-queens/) | <img src="images/086_nqueens.png" alt="Solution" height="40"/> | Backtracking (Python) |
 | ✅     | Medium   | [87. Interleaving String](https://leetcode.com/problems/interleaving-string/) | <img src="images/087_interleaving_string.png" alt="Solution" height="40"/> | Recursion (Python) |
 | ✅     | Easy   | [88. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | <img src="images/088_number_of_1_bits.png" alt="Solution" height="40"/> | Bit Manipulation (Python) |
+| ✅     | Medium | [89. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | <img src="images/089_longest_increasing_subsequence.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
+
 ---
