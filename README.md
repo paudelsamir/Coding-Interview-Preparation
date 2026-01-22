@@ -101,5 +101,5 @@
 | ✅     | Medium | [90. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | <img src="images/090_surrounded_region.png" alt="Solution" height="40"/> | DFS (Python) |
 | ✅     | Hard   | [91. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | <img src="images/091_distinct_subsequences.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Medium | [92. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | <img src="images/092_partition_equal_subset_sum.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
-
+| ✅     | Medium | [93. Design Twitter](https://leetcode.com/problems/design-twitter/) | <img src="images/093_design_twitter.png" alt="Solution" height="40"/> | BruteForce (Python) |
 ---
