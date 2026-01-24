@@ -102,4 +102,7 @@
 | ✅     | Hard   | [91. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | <img src="images/091_distinct_subsequences.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Medium | [92. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | <img src="images/092_partition_equal_subset_sum.png" alt="Solution" height="40"/> | Dynamic Programming (Python) |
 | ✅     | Medium | [93. Design Twitter](https://leetcode.com/problems/design-twitter/) | <img src="images/093_design_twitter.png" alt="Solution" height="40"/> | BruteForce (Python) |
+| ✅     | Easy   | [94. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | <img src="images/094_balanced_binary_tree.png" alt="Solution" height="40"/> | Binary Tree (Python) |
+| ✅     | Medium | [95. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | <img src="images/095_cheapest_flights_withinn_k_stops.png" alt="Solution" height="40"/> | Bellman Ford (Python) |
+
 ---
