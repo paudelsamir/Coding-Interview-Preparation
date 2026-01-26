@@ -105,6 +105,7 @@
 | ✅     | Easy   | [94. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | <img src="images/094_balanced_binary_tree.png" alt="Solution" height="40"/> | Binary Tree (Python) |
 | ✅     | Medium | [95. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | <img src="images/095_cheapest_flights_withinn_k_stops.png" alt="Solution" height="40"/> | Bellman Ford (Python) |
 | ✅     | Medium | [96. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | <img src="images/096_network_delay_time.png" alt="Solution" height="40"/> | Dijkstra's Algorithm (Python) |
+| ✅     | Easy   | [97. Missing Number](https://leetcode.com/problems/missing-number/) | <img src="images/097_missing_number.png" alt="Solution" height="40"/> | Math/XOR (Python) |
 
 
 ---
