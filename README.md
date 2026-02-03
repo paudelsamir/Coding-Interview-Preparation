@@ -108,5 +108,6 @@
 | ✅     | Easy   | [97. Missing Number](https://leetcode.com/problems/missing-number/) | <img src="images/097_missing_number.png" alt="Solution" height="40"/> | Math/XOR (Python) |
 | ✅     | Medium | [98. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | <img src="images/098_merge_triplets_to_for_target_triplets.png" alt="Solution" height="40"/> | Greedy (Python) |
 | ✅     | Medium | [99. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | <img src="images/099_pacific_atlantic_water_flow.png" alt="Solution" height="40"/> | DFS (Python) |
+| ✅     | Medium | [100. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | <img src="images/100_time_based_key_value_store.png" alt="Solution" height="40"/> | Binary Search (Python) |
 
 ---
